@@ -32,6 +32,7 @@
   },
   "main": "index",
   "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "prepare": "echo 'installing deps'"
   }
 }
